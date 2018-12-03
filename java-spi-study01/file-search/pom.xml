@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.a.pls.q</groupId>
     <artifactId>file-search</artifactId>
 
     <name>file-search</name>

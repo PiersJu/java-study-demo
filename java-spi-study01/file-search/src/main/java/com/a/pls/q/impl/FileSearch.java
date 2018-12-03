@@ -1,4 +1,4 @@
-package com.pls.q.impl;
+package com.a.pls.q.impl;
 
 import com.pls.q.Search;
 import org.apache.commons.lang3.StringUtils;

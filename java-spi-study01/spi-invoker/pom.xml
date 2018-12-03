@@ -23,8 +23,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.b.pls.q</groupId>
-            <artifactId>db-search</artifactId>
+            <groupId>com.a.pls.q</groupId>
+            <artifactId>file-search</artifactId>
             <version>1.0.0</version>
         </dependency>
 
