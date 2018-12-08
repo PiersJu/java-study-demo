@@ -25,8 +25,7 @@ jdk提供服务实现查找的一个工具类：java.util.ServiceLoader。
 发现日志提供商是通过扫描 META-INF/services/org.apache.commons.logging.LogFactory配置文件，
 通过读取该文件的内容找到日志提工商实现类。只要我们的日志实现里包含了这个文件，并在文件里制定 LogFactory工厂接口的实现类即可。
   
-* jdbc  
-jdbc4.0以前， 开发人员还需要基于Class.forName("xxx")的方式来装载驱动，jdbc4也基于spi的机制来发现驱动提供商了，
+* jdbc  jdbc4.0以前， 开发人员还需要基于Class.forName("xxx")的方式来装载驱动，jdbc4也基于spi的机制来发现驱动提供商了，
 可以通过META-INF/services/java.sql.Driver文件里指定实现类的方式来暴露驱动提供者。
 
 
