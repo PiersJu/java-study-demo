@@ -32,9 +32,6 @@ src/site
 java-spi-study01/src/site
 
 # java compile folder
-java-spi-study01/db-search/target
-java-spi-study01/file-search/target
-java-spi-study01/spi-invoker/target
-java-spi-study01/spi-service/target
+**/**/target
 
 *.iml
