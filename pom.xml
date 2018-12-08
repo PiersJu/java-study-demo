@@ -10,6 +10,7 @@
   <modules>
     <module>java-spi-study01</module>
     <module>java-spi-study01</module>
+      <module>java-websocket-study01</module>
   </modules>
   <packaging>pom</packaging>
 
